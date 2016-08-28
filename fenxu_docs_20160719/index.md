@@ -36,6 +36,9 @@ Youku video embedded html-1:
 Youku video embedded html-1-2:
 <embed src="https://player.youku.com/player.php/sid/XMTAzMzA3ODI0/v.swf" quality="high" width="480" height="400" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash"></embed>
 
+1-3
+<embed src="http://static.youku.com/v1.0.0643/v/swf/player_yknpsv.swf" quality="high" width="480" height="400" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash"></embed>
+
 Youku video embedded html-2:
 <embed src="http://player.youku.com/player.php/sid/XMTAzMzA3ODI0/v.swf" quality="high" width="480" height="400"></embed>
 
